@@ -2,6 +2,7 @@
 
 Here is static we page desing for how a basic chat page looks like.
  In this I've been used HTML, CSS and Bootstarap to build it.
+ 
  HTML
  ====
  By creating basic html elements like h1, p and div static structure is defined .
