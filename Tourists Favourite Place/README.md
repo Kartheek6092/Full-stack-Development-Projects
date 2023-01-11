@@ -1,6 +1,7 @@
 This is an static website for the tourists to select their favorite places to plan their trip.
 
 In this website I've developed an website integration as the more professional web designs are based on.
+
 Used Technologies
 =================
 HTML, CSS and Bootstrap
