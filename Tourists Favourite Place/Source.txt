@@ -1,0 +1,21 @@
+Images
+======
+
+Taj Mahal = "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/tajmahal-img.png"
+Golden Temple = "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/golden-temple-img.png"
+Mysore Palace = "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/mysore-palace-img.png"
+varanasi Temple = "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/varanasi-temple-img.png"
+
+courosel Images
+===============
+
+Taj Mahal:
+    "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/tajmahal-c1-img.png"
+    "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/tajmahal-c2-img.png"
+    "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/tajmahal-c3-img.png"
+
+golden Temple:
+    "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/goldentemple1-img.png"
+    "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/goldentemple2-img.png"
+    "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/goldentemple3-img.png"
+    
