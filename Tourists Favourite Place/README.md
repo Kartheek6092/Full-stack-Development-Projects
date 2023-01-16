@@ -6,8 +6,15 @@ Used Technologies
 =================
 HTML, CSS and Bootstrap
 
-This static website useful for knowing about the place they plan to visit, and in this there are some extensions that can be added in furtgur implementation.
-used button styling, onclick events on div html elements to integrate the page we need to direct.
+Developed tourism website where users can browse through the content, videos and      
+   images of popular destinations.
+●	Implemented mobile friendly layout using different HTML block, inline elements, 
+  and styled using CSS3 properties such as background, flex, and CSS box model properties.
+●	Implemented multiple images of a particular destination in a carousel using 
+  bootstrap carousel and virtual tour videos using bootstrap embed component.
+    
+  Technologies used: HTML, CSS, Bootstrap 
+
 
 Bootstrap courosels components are used to display the the images by slides in the pages
 here is the link to Bootstrap courosels:- https://getbootstrap.com/docs/4.6/components/carousel/
