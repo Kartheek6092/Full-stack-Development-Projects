@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.container{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-bar{
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: auto;
+    background-image: linear-gradient(to right, rgb(32, 200, 229), rgb(53, 255, 205), rgb(135, 103, 222));
+}
+
+.career-opt{
+    display: flex;
+    align-items: center;
+}
+
+a{
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+
+.content-body, .cards{
+    align-self: center;
+    width: 70vw;
+    background-color: rgb(153, 250, 250);
+    padding: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.name{
+    font-size: 50px;
+    color: navy;
+}
+b{
+    font-size: 20px;
+}
+#objective{
+    width: 50%;
+    font-size: 20px;
+    padding: 20px 20px 20px 0px;
+}
+#profile-pic{
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 250px;
+    padding: 2%;
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin: 10px;
+}
